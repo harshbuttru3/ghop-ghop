@@ -1,0 +1,51 @@
+
+
+
+
+
+To determine the viscosity of the given liquid we have to first assemble the material that are water and other sample liquid by which we can easily observe the differ in observation of the property of viscosity of the given sample.
+
+Theory- the viscosity of the given liquid is determine by the help of ostwalds viscometer in which the water flow through the capilary of the viscometer with there mark in the tube and the observation of the time should be written.
+
+Requirement - Gravity bottle , two sample of liquid , rubber tube , ostwalds viscometer.
+
+Procedure - wash and clean the specific Gravity bottle and rinse it with ethyl alcohol and dry it by drier.
+
+Then fill the water in the tube which containing two bulb like structure in it . Mark it at the two point for the observation of the time for calculation of the water shrinkage from that point to the another point by leaving one side of the meter open .
+
+The water inside the tube will pass through the capilary.
+
+These are the step taken for calculating the viscosity of two given liquid .
+
+
+IMPORTANT QUESTION IN viscosity: 
+1. WHAT IS VISCOSITY?
+ANS:  The property of liquid by which it resists the flow between two layers.
+Ans - The property of the specific liwuid which resist the flow of its molecules in it.
+
+2. WHAT IS THE UNIT OF VISCOSITY?
+ANS: poise or pascal-second.
+ANS - poise or pascal second.
+
+3. WHAT IS OSTWALDS VISCOMETER?
+ANS: Otwalds viscometer is a device use in experiment for measuring the 
+Ans - the instrument used for the measurement for the viscosity of the given sample.
+
+4. WHAT ARE THE TYPES OF VISCOSITY?
+ANS: There are two types of viscosity: 
+     a) Kinetic viscosity.
+     b) Dynamic viscosity.
+
+5. WHAT IS POISEULLE'S LAW?
+ANS: The laminar flow , the flow rate of liquid can be expressed as ratio of pressure difference w.r.t viscous resistance. 
+     n1/n2 = t1*p1/t2*p2.
+6. WEIGHT OF THE SPECFIC GRAVITY BOTTLE?
+ANS : 20-25 GRAM 
+
+7. "LOWER THE VISCOSITY GREATER THE FLOW", TRUE OR FALSE?
+ANS: True. 
+
+8. WHAT IS TERMINAL VELOCITY?
+ANS: It can be defined as the constant velocity acquired by a spherical body which is falling freely into a liquid medium.
+
+THE END FOR THIS CHAPTER BY SEVEN QUESTION 7 THALA FOR A REASON.
